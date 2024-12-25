@@ -1,0 +1,29 @@
+[
+    {
+        "id": "user1",
+        "name": "John Doe",
+        "age": 30,
+        "gender": "male",
+        "interested_in": "female",
+        "location": "New York",
+        "hobbies": ["hiking", "photography"],
+        "interests": ["travel", "technology"],
+        "occupation": "engineer",
+        "education_level": "bachelor",
+        "personality_traits": ["adventurous", "curious"]
+    },
+    {
+        "id": "user2",
+        "name": "Sarah Chen",
+        "age": 28,
+        "gender": "female",
+        "interested_in": "male",
+        "location": "San Francisco",
+        "hobbies": ["cooking", "reading"],
+        "interests": ["travel", "art"],
+        "occupation": "designer",
+        "education_level": "master",
+        "personality_traits": ["creative", "thoughtful"]
+    }
+]
+
